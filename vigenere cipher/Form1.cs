@@ -71,8 +71,8 @@ namespace vigenere_cipher
 
         private void decryptb_Click(object sender, EventArgs e)
         {
-            StringBuilder s = new StringBuilder(ciphertexttb.Text);
-            string key = keydtb.Text;
+            StringBuilder s = new StringBuilder(ciphertb.Text);
+            string key = keytb.Text;
 
             vigeneredecrypt(ref s, key);
             plaintexttb.Text = Convert.ToString(s).ToLower();
