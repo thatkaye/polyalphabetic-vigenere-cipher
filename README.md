@@ -83,4 +83,7 @@ for (int i = 0; i < s.Length; i++)
             }
 ```
 
-### file encryption and decryption
+# file encryption
+1. encrypt and decrypt text files
+2. encrypt images
+3. encrypt videos
