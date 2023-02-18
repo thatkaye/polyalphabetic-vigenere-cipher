@@ -83,7 +83,10 @@ for (int i = 0; i < s.Length; i++)
             }
 ```
 
-# file encryption
+### file encryption
 1. encrypt and decrypt text files
 2. encrypt images
 3. encrypt videos
+
+### contributing
+if you wish to contribute feel free to [open an issue](https://github.com/thatkaye/polyalphabetic-vigenere-cipher/issues).
