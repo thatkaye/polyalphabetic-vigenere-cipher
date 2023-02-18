@@ -1,8 +1,5 @@
 # polyaphabetic-vigenere-cipher
 
-__instruction:__
-create your own version of encrypting windows files other types of conventional encryption algorithm. do not use *ceasar cipher*.
-
 the code below is the code for encrypting files on windows using *ceasar cipher*.
 ```
 FileStream fs = new FileStream(openFileDialog1.FileName, FileMode.OpenOrCreate);
